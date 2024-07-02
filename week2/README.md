@@ -1,1 +1,1 @@
-"#MakeoverMonday week2 projecy" 
+"#MakeoverMonday week2 project" 
